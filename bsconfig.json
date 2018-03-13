@@ -1,0 +1,13 @@
+{
+  "name": "jour",
+  "reason": { "react-jsx": 2 },
+  "refmt": 3,
+  "warnings": {
+    "number": "+R"
+  },
+  "bs-dependencies": ["reason-react", "bs-spectacle"],
+  "bsc-flags": ["-bs-no-version-header", "-bs-super-errors"],
+  "sources": [
+       "src/reason"
+  ]
+}
