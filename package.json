@@ -2,6 +2,7 @@
   "name": "reason-pres",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/eldh/reason-pres",
   "homepage": "https://eldh.github.io/reason-pres",
   "dependencies": {
     "gh-pages": "^1.1.0",
